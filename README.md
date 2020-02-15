@@ -1,2 +1,2 @@
-# Nipples
-what other description do you need?
+# LED_ring
+fastLED rings
